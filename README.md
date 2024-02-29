@@ -1,16 +1,9 @@
-# login
+# Login
+Flutter app with email and password login using Firebase
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Build APP
+1. Clone the repo `gh repo clone Fareed-Ahmad7/login`
+2. Install dependencies `flutter pub get`
+3. Run app `flutter run`
+4. Enter email `test123@gmail.com` and password `test123`
+5. Click Login button
